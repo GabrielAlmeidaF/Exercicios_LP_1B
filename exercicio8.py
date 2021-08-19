@@ -1,0 +1,8 @@
+valor = input("Digite alguma coisa: ")
+print (type (valor))
+print("O valor tem numero ? {} "valorisnumeric)
+print("O valor tem letra? "valor.isalpha)
+print("O valor tem letra maiscula? "valor.isupper)
+print("O valor tem letra minuscula? "valor.islower)
+print("É um espaço? "valor.isspace)
+print("O valor tem sprint? "valor.isprintable)
