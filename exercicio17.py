@@ -1,0 +1,5 @@
+valor1 = int(input("Digite aqui o primeiro valor: "))
+valor2 = int(input("Digite aqui o segundo valor: "))
+valor3 = int(input("Digite aqui o terceiro valor: "))
+soma = (valor1 + valor2 + valor3)
+print("A soma dos valores é: {}".format(soma))

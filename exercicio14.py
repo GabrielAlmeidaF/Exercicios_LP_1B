@@ -1,0 +1,12 @@
+n = int(input("Digite o número que deseja ter a tabuada: "))
+
+print("O número {} multiplicado por 1 resulta em: {}".format(n, (n*1)))
+print("O número {} multiplicado por 2 resulta em: {}".format(n, (n*2)))
+print("O número {} multiplicado por 3 resulta em: {}".format(n, (n*3)))
+print("O número {} multiplicado por 4 resulta em: {}".format(n, (n*4)))
+print("O número {} multiplicado por 5 resulta em: {}".format(n, (n*5)))
+print("O número {} multiplicado por 6 resulta em: {}".format(n, (n*6)))
+print("O número {} multiplicado por 7 resulta em: {}".format(n, (n*7)))
+print("O número {} multiplicado por 8 resulta em: {}".format(n, (n*8)))
+print("O número {} multiplicado por 9 resulta em: {}".format(n, (n*9)))
+print("O número {} multiplicado por 10 resulta em: {}".format(n, (n*10)))
